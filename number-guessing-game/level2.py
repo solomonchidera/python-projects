@@ -4,7 +4,7 @@ import random
 
 def play_level_2():
     generated_number = random.randint(1, 15)
-    attempts = 3
+    attempts = 2
     
     while attempts > 0:
         try:
